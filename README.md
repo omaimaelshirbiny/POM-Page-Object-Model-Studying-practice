@@ -1,6 +1,6 @@
 #  POM-Page-Object-Model-Studying-practice
 ## Description
-This project is designed to be a test automation practice.  [link website](https://ashraaf7.github.io/AA-Practice-Test-Automation/)
+This is a test automation practice on POM design pattern on a demo [link website](https://ashraaf7.github.io/AA-Practice-Test-Automation/)
 ## Scope
 The scope of this automation testing will cover the following areas:
 - started to use POM pattern on my code
